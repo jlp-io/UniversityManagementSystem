@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=n\ a
+comment0.target=Person(java.lang.String,\ int)
+comment1.params=name
+comment1.target=void\ setName(java.lang.String)
+comment2.params=age
+comment2.target=void\ setAge(int)
+comment3.params=
+comment3.target=int\ setID()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getAge()
+comment6.params=
+comment6.target=int\ getID()
+comment7.params=
+comment7.target=void\ resetID()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=comparePerson
+comment9.target=int\ compareTo(Person)
+comment9.text=\r\n\ @param\ comparePerson\ the\ person\ that\ we\ are\ comparing\ the\ 'this'\ Person\ to\r\n\ @return\ nameComparison\ the\ int\ result\ of\ the\ compareTo\ between\ the\ name\ strings\ of\ both\ Persons.\ \r\n
+numComments=10
